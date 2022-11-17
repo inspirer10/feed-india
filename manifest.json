@@ -1,5 +1,5 @@
 {
-    "short_name": "React App",
+    "short_name": "Feed India",
     "name": "Create React App Sample",
     "icons": [{
             "src": "icon.png",
@@ -17,7 +17,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": ".",
+    "start_url": "feed-india",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
